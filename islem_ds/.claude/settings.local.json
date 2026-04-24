@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(read dir:*)",
-      "Bash(touch __TRACKED_VAR__/__init__.py)"
-    ]
-  }
-}

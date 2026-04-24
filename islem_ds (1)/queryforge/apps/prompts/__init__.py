@@ -1,1 +1,0 @@
-# apps.prompts package
